@@ -9,6 +9,6 @@
 #Para visualizar el proyecto solo debemos acceder a la ruta http://localhost:3000/
 
 #Podemos correr tambien nuestro proyecto en modo desarrollo, para que los cambios se vayan reflejando de manera inmediata
-# npm run dev
+#npm run dev
 
 #PD: Este crud esta hecho con una base de datos mongodb que existe en Atlas
