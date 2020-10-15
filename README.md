@@ -2,7 +2,7 @@
 
 Para correr este proyecto se deben seguir los siguientes pasos
 
-1 - npm intall
+1 - npm install
 
 Esto es basicamente para descargar todas las dependencias especificadas en el package.json
 
