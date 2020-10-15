@@ -16,4 +16,5 @@ Podemos correr tambien nuestro proyecto en modo desarrollo, para que los cambios
 
 Opcional : npm run dev
 
-PD: Este crud esta hecho con una base de datos mongodb que existe en Atlas
+PD: Este crud esta hecho con una base de datos mongodb que existe en Atlas, así que se debe modificar la url en el archivo
+src/database.js
